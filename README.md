@@ -17,3 +17,6 @@ A control creator for rigging in Autodesk Maya.
 - [ ] Square control doesn't take chosen name from naming textfields
 - [ ] Control position gets joints position from parent not world
 - [ ] Joints dont spawn if nothing is selected. Should spawn at 0, 0, 0
+- [ ] Add dropdown box for rotation, translate
+- [ ] Add floatslider for scale
+- [ ] Reverse rotation options
