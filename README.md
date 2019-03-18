@@ -6,3 +6,4 @@ A control creator for rigging in Autodesk Maya.
 - [ ] Create more 3D control shapes
 - [ ] Set UI width wider (width+20)
 - [ ] Set height value to 850
+- [ ] Control Parent to joint button
