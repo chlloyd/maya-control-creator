@@ -12,3 +12,4 @@ A control creator for rigging in Autodesk Maya.
 - [ ] Transform, rotation and scale tools should unlock control if locked
 - [ ] Delete history/freeze transforms should ignore the error
 - [ ] Transform, rotation, scale should ignore error if control is locked
+- [ ] Add decision if name is empty, don't add underscore
