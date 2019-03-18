@@ -13,3 +13,7 @@ A control creator for rigging in Autodesk Maya.
 - [ ] Delete history/freeze transforms should ignore the error
 - [ ] Transform, rotation, scale should ignore error if control is locked
 - [ ] Add decision if name is empty, don't add underscore
+- [ ] Add for loop to work with multiple joints
+- [ ] Square control doesn't take chosen name from naming textfields
+- [ ] Control position gets joints position from parent not world
+- [ ] Joints dont spawn if nothing is selected. Should spawn at 0, 0, 0
