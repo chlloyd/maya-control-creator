@@ -1,6 +1,15 @@
 # maya-control-creator
 A control creator for rigging in Autodesk Maya. 
 
+## Running the script
+1. Past both these files into the Maya scripts folder
+2. Run the following into Mayas python editor:
+```python
+from maya_control_creator import *
+controlCreator = MayaControlCreator()
+controlCreator.buildUI()
+```
+
 ## TODO: List
 - [x] Create more 2D control shapes
 - [x] Create more 3D control shapes
